@@ -30,4 +30,4 @@ The dataset used for this project is the 'Online Job Posting' dataset from Kaggl
 
 ## Usage
 
-1. **Environment Setup**: Make sure you have the required libraries installed. You can download the job posting data (fron any source), run each model separately, and analyse the results.
+1. **Environment Setup**: Make sure you have the required libraries installed. You can download the job posting data (from any source), run each model separately, and analyse the results.
